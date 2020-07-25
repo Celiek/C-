@@ -1,0 +1,15 @@
+C:\Users\Celiek\Desktop\Web_Scraper\bin\Debug\netcoreapp3.1\Web_Scraper.exe
+C:\Users\Celiek\Desktop\Web_Scraper\bin\Debug\netcoreapp3.1\Web_Scraper.deps.json
+C:\Users\Celiek\Desktop\Web_Scraper\bin\Debug\netcoreapp3.1\Web_Scraper.runtimeconfig.json
+C:\Users\Celiek\Desktop\Web_Scraper\bin\Debug\netcoreapp3.1\Web_Scraper.runtimeconfig.dev.json
+C:\Users\Celiek\Desktop\Web_Scraper\bin\Debug\netcoreapp3.1\Web_Scraper.dll
+C:\Users\Celiek\Desktop\Web_Scraper\bin\Debug\netcoreapp3.1\Web_Scraper.pdb
+C:\Users\Celiek\Desktop\Web_Scraper\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Users\Celiek\Desktop\Web_Scraper\obj\Debug\netcoreapp3.1\Web_Scraper.csprojAssemblyReference.cache
+C:\Users\Celiek\Desktop\Web_Scraper\obj\Debug\netcoreapp3.1\Web_Scraper.AssemblyInfoInputs.cache
+C:\Users\Celiek\Desktop\Web_Scraper\obj\Debug\netcoreapp3.1\Web_Scraper.AssemblyInfo.cs
+C:\Users\Celiek\Desktop\Web_Scraper\obj\Debug\netcoreapp3.1\Web_Scraper.csproj.CoreCompileInputs.cache
+C:\Users\Celiek\Desktop\Web_Scraper\obj\Debug\netcoreapp3.1\Web_Scraper.csproj.CopyComplete
+C:\Users\Celiek\Desktop\Web_Scraper\obj\Debug\netcoreapp3.1\Web_Scraper.dll
+C:\Users\Celiek\Desktop\Web_Scraper\obj\Debug\netcoreapp3.1\Web_Scraper.pdb
+C:\Users\Celiek\Desktop\Web_Scraper\obj\Debug\netcoreapp3.1\Web_Scraper.genruntimeconfig.cache

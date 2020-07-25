@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eOPi/oKBfzBzdzVG+MfWDLqAlhugfvJTm/ZtwPVySzs+fllGi2gn5gawhXXf6PYdnepN6JUJLQO7uYl3PzzS+w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Celiek\\Desktop\\Web_Scraper\\Web_Scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Celiek\\.nuget\\packages\\htmlagilitypack\\1.11.24\\htmlagilitypack.1.11.24.nupkg.sha512"
+  ],
+  "logs": []
+}
